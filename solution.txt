@@ -1,0 +1,4 @@
+Raman's salary is 100000
+Kunal's salary is 120000
+Samir's salary is 100000
+John's salary is 80000
